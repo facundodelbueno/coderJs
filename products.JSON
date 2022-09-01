@@ -1,0 +1,8 @@
+[
+    { "id": 0, "modelo": "GTX 1650",   "tipo": "NVIDIA", "marca": "Gigabyte", "stock": 10, "precio": 60000,  "img": "img/products/GTX 1650.png" },
+    { "id": 1, "modelo": "RTX 3050",   "tipo": "NVIDIA", "marca": "EVGA",     "stock": 10, "precio": 95000,  "img": "img/products/RTX 3050.jpg" },
+    { "id": 2, "modelo": "RTX 3070",   "tipo": "NVIDIA", "marca": "Asus",     "stock": 10, "precio": 149000, "img": "img/products/RTX 3070.png" },
+    { "id": 3, "modelo": "RX 6800 XT", "tipo": "AMD",    "marca": "MSI",      "stock": 10, "precio": 180000, "img": "img/products/RX 6800 XT.png" },
+    { "id": 4, "modelo": "RTX 3080TI", "tipo": "NVIDIA", "marca": "Asus",     "stock": 10, "precio": 315000, "img": "img/products/RTX 3080TI.png" },
+    { "id": 5, "modelo": "RTX 3090TI", "tipo": "NVIDIA", "marca": "MSI",      "stock": 10, "precio": 400000, "img": "img/products/RTX 3090TI.png" }
+]
